@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Assignment1_Joshua_Romoff_260532864\playerController.cs">
+    <Files>
+      <File FileName="Assets\Assignment1_Joshua_Romoff_260532864\Maze_Create.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assignment1_Joshua_Romoff_260532864\EndGameElevator.cs" Line="9" Column="19" />
+      <File FileName="Assets\Assignment1_Joshua_Romoff_260532864\pick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assignment1_Joshua_Romoff_260532864\playerController.cs" Line="6" Column="33" />
+      <File FileName="Assets\Assignment1_Joshua_Romoff_260532864\projectilePickup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Assignment1_Joshua_Romoff_260532864\win.cs" Line="8" Column="70" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assignment1_Joshua_Romoff_260532864" expanded="True">
+              <Node name="playerController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>this.wallRooms</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
